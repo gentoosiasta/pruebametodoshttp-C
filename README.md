@@ -1,3 +1,3 @@
 # Test of HTTP methods
 
-## This is a example of modifications in the repo
+## This is an example of modifications in the repo
